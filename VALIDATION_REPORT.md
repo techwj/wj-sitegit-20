@@ -1,0 +1,88 @@
+# Validation Report - solo-dining-ritual
+
+Generated: 2026-06-02T15:35:14.235822
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Solo Dining Ritual
+- ✓ Article word count OK: Beginner Solo Dining Ritual: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Solo Dining Ritual
+- ✓ Article word count OK: Beginner Solo Dining Ritual Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Solo Dining Ritual
+- ✓ Article word count OK: Beginner Solo Dining Ritual in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Solo Dining Ritual
+- ✓ Article word count OK: Common Mistakes in Beginner Solo Dining Ritual
+- ✓ Article word count OK: Beginner Solo Dining Ritual for Beginners
+- ✓ Article word count OK: Advanced Beginner Solo Dining Ritual Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Solo Dining Ritual
+- ✓ Article word count OK: Advanced Solo Dining Ritual: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Solo Dining Ritual
+- ✓ Article word count OK: Advanced Solo Dining Ritual Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Solo Dining Ritual
+- ✓ Article word count OK: Advanced Solo Dining Ritual in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Solo Dining Ritual
+- ✓ Article word count OK: Common Mistakes in Advanced Solo Dining Ritual
+- ✓ Article word count OK: Advanced Solo Dining Ritual for Beginners
+- ✓ Article word count OK: Advanced Advanced Solo Dining Ritual Techniques
+- ✓ Article word count OK: The Ultimate Guide to Solo Dining Ritual Tips
+- ✓ Article word count OK: Solo Dining Ritual Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Solo Dining Ritual Tips
+- ✓ Article word count OK: Solo Dining Ritual Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Solo Dining Ritual Tips
+- ✓ Article word count OK: Solo Dining Ritual Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Solo Dining Ritual Tips
+- ✓ Article word count OK: Common Mistakes in Solo Dining Ritual Tips
+- ✓ Article word count OK: Solo Dining Ritual Tips for Beginners
+- ✓ Article word count OK: Advanced Solo Dining Ritual Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Solo Dining Ritual History
+- ✓ Article word count OK: Solo Dining Ritual History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Solo Dining Ritual History
+- ✓ Article word count OK: Solo Dining Ritual History Tips and Best Practices
+- ✓ Article word count OK: The History of Solo Dining Ritual History
+- ✓ Article word count OK: Solo Dining Ritual History in 2026: Current Trends
+- ✓ Article word count OK: Future of Solo Dining Ritual History
+- ✓ Article word count OK: Common Mistakes in Solo Dining Ritual History
+- ✓ Article word count OK: Solo Dining Ritual History for Beginners
+- ✓ Article word count OK: Advanced Solo Dining Ritual History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Solo Dining Ritual
+- ✓ Article word count OK: Trending Solo Dining Ritual: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Solo Dining Ritual
+- ✓ Article word count OK: Trending Solo Dining Ritual Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Solo Dining Ritual
+- ✓ Article word count OK: Trending Solo Dining Ritual in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Solo Dining Ritual
+- ✓ Article word count OK: Common Mistakes in Trending Solo Dining Ritual
+- ✓ Article word count OK: Trending Solo Dining Ritual for Beginners
+- ✓ Article word count OK: Advanced Trending Solo Dining Ritual Techniques
+- ✓ Article word count OK: The Ultimate Guide to Solo Dining Ritual Tutorials
+- ✓ Article word count OK: Solo Dining Ritual Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Solo Dining Ritual Tutorials
+- ✓ Article word count OK: Solo Dining Ritual Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Solo Dining Ritual Tutorials
+- ✓ Article word count OK: Solo Dining Ritual Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Solo Dining Ritual Tutorials
+- ✓ Article word count OK: Common Mistakes in Solo Dining Ritual Tutorials
+- ✓ Article word count OK: Solo Dining Ritual Tutorials for Beginners
+- ✓ Article word count OK: Advanced Solo Dining Ritual Tutorials Techniques
+- ✓ Ad configuration validated

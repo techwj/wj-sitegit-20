@@ -1,0 +1,59 @@
+{
+  "siteId": "solo-dining-ritual",
+  "generatedAt": "2026-06-02T15:35:14.236081",
+  "categories": [
+    "beginner-solo-dining-ritual",
+    "advanced-solo-dining-ritual",
+    "tips-solo-dining-ritual",
+    "history-solo-dining-ritual",
+    "trending-solo-dining-ritual",
+    "tutorials-solo-dining-ritual"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-solo-dining-ritual",
+      "category_name": "Beginner Solo Dining Ritual"
+    },
+    {
+      "category_slug": "advanced-solo-dining-ritual",
+      "category_name": "Advanced Solo Dining Ritual"
+    },
+    {
+      "category_slug": "tips-solo-dining-ritual",
+      "category_name": "Solo Dining Ritual Tips"
+    },
+    {
+      "category_slug": "history-solo-dining-ritual",
+      "category_name": "Solo Dining Ritual History"
+    },
+    {
+      "category_slug": "trending-solo-dining-ritual",
+      "category_name": "Trending Solo Dining Ritual"
+    },
+    {
+      "category_slug": "tutorials-solo-dining-ritual",
+      "category_name": "Solo Dining Ritual Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "solo-dining-ritual",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Solo Dining Ritual Central",
+    "articles_per_row": 4
+  }
+}
